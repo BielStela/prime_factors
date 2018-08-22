@@ -1,0 +1,8 @@
+simpy
+scipy
+tqdm
+umap-learn
+matplotlib
+numpy
+pandas
+datashader
